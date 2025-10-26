@@ -1,2 +1,2 @@
-# Tosi
+# SyndicateRP
 SyndicateRP.github.io
