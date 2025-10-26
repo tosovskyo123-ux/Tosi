@@ -1,2 +1,2 @@
-# SyndicateRP
+# SyndicateRP.github.io
 SyndicateRP.github.io
