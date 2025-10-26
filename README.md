@@ -1,4 +1,4 @@
-# Tosi
+# SyndicateRP
 
 Tento repozitář slouží pro webovou stránku projektu SyndicateRP.
 
